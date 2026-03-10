@@ -1,6 +1,10 @@
-const AFFILIATE_TAG = "royalkrrish00-21"; // Apna Tag Yahan Daalo
+const AFFILIATE_TAG = " magicaldeal08-21"; // Apna Tag Yahan Daalo
 
 const products = [
+    "https://amzn.to/4b4bj5a",
+    "https://amzn.to/40psibR",
+    "https://amzn.to/4cZjykr",
+    "https://amzn.to/4urHhQs",
     "https://amzn.to/48NI9pI",
     "https://www.amazon.in/dp/B0DTTZ86TV",
     "https://amzn.to/491Lwbp",
